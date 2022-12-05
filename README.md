@@ -7,3 +7,4 @@ animals
 a
 s
 d
+news
